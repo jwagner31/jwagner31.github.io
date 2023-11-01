@@ -2,7 +2,7 @@
 
 ---
 
-<a href ="images/Resume2023JoeWagner.docx.pdf"> </a>
+<img src="images/cv2023img?raw=true"/>
 
 ---
 <br>
