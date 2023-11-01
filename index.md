@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/cv2023img?raw=true"/>
+<img src="images/cv2023img.png?raw=true"/>
 
 ---
 <br>
